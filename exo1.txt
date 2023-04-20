@@ -1,0 +1,2 @@
+Un CMS c'est un logiciel en ligne avec lequel on peut créer un site web sans avoir besoin de réelles bases en développement/code. On peut faire un e-commerce, portfolio, blog etc.. 
+Exemple de CMS : shopify, wordpress
